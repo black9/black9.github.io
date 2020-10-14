@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: 블로글 개장 전 테스트 중 입니다
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+하나 둘 셋 넷
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
