@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "게시글"
+    url: /categories/게시글/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "About"
+    url: /about/
