@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "게시글"
-    url: /categories/게시글/
+  - title: "전체 게시글"
+    url: /categories/
   - title: "카테고리"
     url: /categories/
   - title: "태그"
