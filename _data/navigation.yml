@@ -1,6 +1,8 @@
 # main links
 main:
-  - title: "게시글"
+  - title: "소식"
+    url: /categories/dev/
+  - title: "개발"
     url: /categories/dev/
   - title: "보안"
     url: /categories/security/
