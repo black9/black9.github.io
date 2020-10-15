@@ -9,7 +9,7 @@ header:
 categories:
   - 개발
 tags:
-  - cloud
+  - Cloud
   - AWS
   - GCP
   - Azure
