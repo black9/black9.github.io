@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "보안"
-    url: /categories/보안/
-  - title: "개발"
-    url: /categories/개발/
-  - title: "Categories"
+  - title: "게시글"
+    url: /categories/게시글/
+  - title: "카테고리"
     url: /categories/
   - title: "태그"
     url: /tags/
-  - title: "About"
+  - title: "문의"
     url: /about/
