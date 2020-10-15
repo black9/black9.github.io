@@ -2,7 +2,7 @@
 main:
   - title: "보안"
     url: /categories/보안/
-  - title: "보안"
+  - title: "개발"
     url: /categories/개발/
   - title: "Categories"
     url: /categories/
