@@ -1,5 +1,5 @@
 ---
-title:  "ThinkingBridge 안드로이드 커스텀OS "
+title:  "ThinkingBridge 안드로이드 커스텀OS 프로젝트"
 excerpt: "ThinkingBridge Android Custom Rom"
 toc: true
 toc_sticky: true
@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/thinkingbridge-logo.png
 
 categories:
-  - 프로젝트
+  - 포트폴리오
 tags:
   - project
   - XDA

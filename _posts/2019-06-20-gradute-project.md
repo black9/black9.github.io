@@ -6,7 +6,7 @@ toc_sticky: true
 header:
 
 categories:
-  - 프로젝트
+  - 포트폴리오
 tags:
   - project
   - Android

@@ -1,11 +1,11 @@
 ---
-title: "프로젝트"
+title: "포트폴리오"
 permalink: /categories/project/
 layout: category
 author_profile: true
 toc_sticky: true
 toc_ads : true
-taxonomy: 프로젝트
+taxonomy: 포트폴리오
 ---
 
-보안 정보를 정리한 공간입니다.
+프로젝트들을 정리한 포트폴리오입니다.

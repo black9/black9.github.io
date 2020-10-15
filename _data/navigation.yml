@@ -10,7 +10,7 @@ main:
     url: /categories/
   - title: "태그"
     url: /tags/
-  - title: "프로젝트"
+  - title: "포트폴리오"
     url: /categories/project/
-  - title: "문의"
+  - title: "소개"
     url: /about/
