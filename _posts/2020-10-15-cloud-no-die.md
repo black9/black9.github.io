@@ -1,6 +1,8 @@
 ---
 title:  "AWS EC2 창 닫아도 꺼지지 않게 서버 유지"
 excerpt: "AWS EC2, GCP VM Instance, Azure VM ware Don't Sleep "
+toc: true
+toc_sticky: true
 header:
   teaser: /assets/images/bio-photo-keyboard-teaser.jpg
 
@@ -13,7 +15,6 @@ tags:
   - Azure
 last_modified_at: 2020-10-15T13:50:00-00:00
 ---
-
 
 ## 1. 왜 서버 켜놨는데 터미널 닫으면 꺼질까?
 
