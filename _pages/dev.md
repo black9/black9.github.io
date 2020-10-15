@@ -1,6 +1,6 @@
 ---
 title: "개발"
-permalink: /categories/게시글/
+permalink: /categories/dev/
 layout: category
 author_profile: true
 toc_sticky: true

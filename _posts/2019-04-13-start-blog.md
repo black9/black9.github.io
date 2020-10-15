@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/bio-photo-keyboard-teaser.jpg
 
 categories:
-  - 게시글
+  - 개발
 tags:
   - Blog
 last_modified_at: 2019-04-13T08:06:00-05:00
