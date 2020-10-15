@@ -2,6 +2,8 @@
 main:
   - title: "게시글"
     url: /categories/게시글/
+  - title: "게시글2"
+    url: /categories/blog/
   - title: "카테고리"
     url: /categories/
   - title: "태그"
