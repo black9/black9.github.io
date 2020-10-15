@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "게시글"
-    url: /categories/게시글/
-  - title: "게시글2"
-    url: /categories/blog/
+    url: /categories/dev/
+  - title: "보안"
+    url: /categories/security/
   - title: "카테고리"
     url: /categories/
   - title: "태그"
