@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/yoondongju-teaser.jpg
 
 categories:
-  - 보안
+  - security
 tags:
   - 자화상
   - 윤동주
