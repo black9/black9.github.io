@@ -1,6 +1,6 @@
 ---
-title:  "github.io 블로그 시작하기"
-excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
+title:  "AWS EC2 창 닫아도 꺼지지 않게 서버 유지"
+excerpt: "AWS EC2, GCP VM Instance, Azure VM ware Don't Sleep "
 header:
   teaser: /assets/images/bio-photo-keyboard-teaser.jpg
 
@@ -8,15 +8,41 @@ categories:
   - 소식
 tags:
   - Blog
-last_modified_at: 2019-04-13T08:06:00-05:00
+last_modified_at: 2020-10-15T13:50:00-00:00
 ---
 
-GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
-GitHub Blog 서비스의 이름은 Pages이다.
+AWS EC2, GCP VM Instance, Azure VMware를 사용할 때 커맨드 창을 끄게 되면 같이 서버도 닫히는 현상이 있다.
 
-Pages가 다른 블로그 플랫폼 보다 편한 것 같아서 마음에 든다.
-다른 사람들도 같이 많이 사용했으면 좋겠다는 생각이 든다.
+> nohup 은 “no hangups” 라는 의미로, 리눅스/유닉스에서 쉘 스크립트파일을 데몬 형태로 실행시키는 명령어라고 한다.
 
-YFM에서 정의한 제목을 이중 괄호 구문으로 본문에 추가할 수 있다.
-이 글의 제목은 {{ page.title }}이고
-마지막으로 수정된 시간은 {{ page.last_modified_at }}이다.
+### Python3 예제
+```
+nohup python3 main.py &
+```
+
+
+### React 등 사용예제
+```
+nohup npm start &
+```
+
+이런식으로 응용을 하면 커맨드 창을 닫아도 백그라운드에 서비스가 유지 된다.
+
+nohup.out이라는 로그파일이 생성되는데 여기서 로그 확인 가능
+
+
+***
+
+## 종료 방법
+
+```
+ps -ef | grep 쉘스크립트파일명
+```
+
+nohup 종료방법은 다음 명령어를 통해 PID를 찾고
+
+```
+kill -9 PID
+```
+
+kill 명령어를 통해 프로세스를 죽여주면 된다.

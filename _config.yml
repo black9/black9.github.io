@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "black9"
+title                    : "블로9"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "black9"
@@ -109,7 +109,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/profile.php?id=100002483773002"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/black9"
@@ -125,7 +125,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: https://www.facebook.com/profile.php?id=100002483773002
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/black9"
