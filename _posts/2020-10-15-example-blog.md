@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/shoes-teaser.jpg
 
 categories:
-  - 소식
+  - 잡담
 tags:
   - blog
   - example

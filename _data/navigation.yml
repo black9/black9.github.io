@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "소식"
+  - title: "잡담"
     url: /categories/newpost/
   - title: "개발"
     url: /categories/dev/
