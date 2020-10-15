@@ -4,13 +4,14 @@ excerpt: "GitHub github.io 블로그 계획."
 toc: true
 toc_sticky: true
 header:
-  teaser: /assets/images/bio-photo-keyboard-teaser.jpg
+  teaser: /assets/images/shoes-teaser.jpg
 
 categories:
-  - 보안
+  - 소식
 tags:
-  - Blog
-last_modified_at: 2019-04-30T08:06:00-05:00
+  - blog
+  - example
+last_modified_at: 2020-10-15T08:06:00-05:00
 ---
 
 GitHub Pages의 github.io 블로그 시작하기로 하였다.
@@ -29,3 +30,6 @@ TOC 테이블로 오른쪽 사이드바에 보여줄 수 있다.
 
 개인적으로 진행하는 토이 프로젝트를 진행해보고
 결과를 소개해보자.
+
+
+![]({{ site.url }}{{ site.baseurl }}/assets/images/shoes.jpg   ){: .align-center}

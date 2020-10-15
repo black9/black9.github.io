@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "블로9"
+title                    : "김현구의 blo9"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "black9"
-description              : "안녕하세요 생각중 입니다.🤔"
+description              : "안녕하세요. 생각중 입니다🤔."
 url                      : "https://black9.github.io"
 baseurl                  : # 서브 경로가 있는 경우 기재
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
