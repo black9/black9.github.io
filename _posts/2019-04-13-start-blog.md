@@ -8,6 +8,9 @@ categories:
   - 개발
 tags:
   - cloud
+  - AWS
+  - GCP
+  - Azure
 last_modified_at: 2020-10-15T13:50:00-00:00
 ---
 
@@ -32,6 +35,7 @@ nohup.out이라는 로그파일이 생성되는데 여기서 로그 확인 가�
 
 
 
+
 ***
 
 
@@ -47,5 +51,7 @@ nohup 종료방법은 다음 명령어를 통해 PID를 찾고
 ```
 kill -9 PID
 ```
+
+
 
 kill 명령어를 통해 프로세스를 죽여주면 된다.
