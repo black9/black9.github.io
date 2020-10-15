@@ -5,9 +5,9 @@ header:
   teaser: /assets/images/bio-photo-keyboard-teaser.jpg
 
 categories:
-  - 소식
+  - 개발
 tags:
-  - Blog
+  - cloud
 last_modified_at: 2020-10-15T13:50:00-00:00
 ---
 
@@ -31,7 +31,10 @@ nohup npm start &
 nohup.out이라는 로그파일이 생성되는데 여기서 로그 확인 가능
 
 
+
 ***
+
+
 
 ## 종료 방법
 
