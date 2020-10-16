@@ -6,8 +6,8 @@ main:
     url: /categories/dev/
   - title: "보안"
     url: /categories/security/
-  - title: "카테고리"
-    url: /categories/
+  # - title: "카테고리"
+  #   url: /categories/
   - title: "태그"
     url: /tags/
   - title: "포트폴리오"
