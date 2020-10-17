@@ -20,7 +20,7 @@ title                    : "현9의 Blo9"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "black9"
-description              : "안녕하세요. 생각중 입니다🤔."
+description              : "안녕하세요. 현실에 안주하기보단 앞으로 나아갈 수 있는 사람이 되는 게 목표입니다."
 url                      : "https://black9.github.io"
 baseurl                  : # 서브 경로가 있는 경우 기재
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,7 +94,7 @@ social:
 author:
   name             : "black9"
   avatar           : "/assets/images/bio-photo-keyboard.jpg"
-  bio              : "안녕하세요 생각중 입니다.🤔"
+  bio              : "안녕하세요. 현실에 안주하기보단 앞으로 나아갈 수 있는 사람이 되는 게 목표입니다."
   location         : "South Korea"
   email            :
   links:
