@@ -4,14 +4,15 @@ excerpt: "간략한 이글루 시큐리티 관제연구기술 면접 후기 - �
 toc: true
 toc_sticky: true
 header:
+  teaser: /assets/images/igloo-logo.jpg
 
 categories:
-  - 잡답
+  - 잡담
 tags:
   - talk
   - interview
   - igloo
-last_modified_at: 2019-06-20T18:06:00-19:00
+last_modified_at: 2020-10-12T14:06:00-19:00
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/igloo-logo.jpeg){: .align-center}   
