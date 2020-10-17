@@ -1,6 +1,6 @@
 ---
-title:  "클라우드 자격증 캘린더"
-excerpt: "Cloud Calender Certificate "
+title:  "클라우드 자격증 캘린더 어플"
+excerpt: "Cloud Calender Certificate APP "
 toc: true
 toc_sticky: true
 header:
