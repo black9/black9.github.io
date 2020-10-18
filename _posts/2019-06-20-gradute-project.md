@@ -51,6 +51,6 @@ Web Hosting : Cafe24
 
 ## 6. 참조
 [Source](https://github.com/black9/CapstonDesign)  
-[PowerPoint](https://github.com/black9/CapstonDesign/blob/master/%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%88%98%EC%A0%954.pptx)
+[발표 PowerPoint](https://kiukr-my.sharepoint.com/:p:/g/personal/hg0930_kiu_kr/Ef5UZzXbrENFpR1Kxsvqjb4BrEsHeqZh6pefI5ddkCky_Q?e=5AMy9e)
 
 

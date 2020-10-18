@@ -54,6 +54,6 @@ Blockchain Sever : AWS EC2
 ## 6. 참조
 [Front Source](https://github.com/black9/want_ReactApp_Web)  
 [BlockChain Source](https://github.com/dizstar94/want-network)   
-[PowerPoint](https://naver.com)
+[발표 PowerPoint](https://kiukr-my.sharepoint.com/:p:/g/personal/hg0930_kiu_kr/EYUPGteVoK5DjAAfEzmttOMBpaqrM9uvI1vlzWC0gBJPgw?e=K0uZsL)
 
 
