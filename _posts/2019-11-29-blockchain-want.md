@@ -1,6 +1,6 @@
 ---
 title:  "WANT"
-excerpt: "당신은 나에게 얼마까지 빌려줄 수 있습니까?"
+excerpt: "부제 : 당신은 나에게 얼마까지 빌려줄 수 있습니까? 블록체인 P2P 대출 시스템 프로젝트"
 toc: true
 toc_sticky: true
 header:
@@ -47,7 +47,8 @@ Blockchain Sever : AWS EC2
 
 ## 5. 기타
 개발 완성도 : 90%,  
-성적 : 프로젝트 우수상, 특별상
+성적 : 프로젝트 우수상, 특별상  
+논문 : 
 
 
 ## 6. 참조
