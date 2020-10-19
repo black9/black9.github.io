@@ -12,7 +12,7 @@ tags:
   - nmap
   - Python
   - Error
-  -  
+  - 
 last_modified_at: 2020-10-15T08:06:00-05:00
 ---
 
