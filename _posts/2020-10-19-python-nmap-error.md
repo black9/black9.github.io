@@ -4,7 +4,7 @@ excerpt: "Nmap 에러 오류"
 toc: true
 toc_sticky: true
 header:
-  teaser: /assets/images/nmap-error1.jpg
+  teaser: /assets/images/nmap-error1.png
 
 categories:
   - 개발
@@ -35,8 +35,8 @@ nmap.nmap.PortScannerError: 'You requested a scan type which requires root privi
 
 ## 1. 증상
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/nmap-error1.jpg   ){: .align-center}
-![]({{ site.url }}{{ site.baseurl }}/assets/images/nmap-error2.jpg   ){: .align-center}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/nmap-error1.png   ){: .align-center}
+![]({{ site.url }}{{ site.baseurl }}/assets/images/nmap-error2.png   ){: .align-center}  
   
 
 위 사진과 같이 에러가 발생하고 nmap이 진행 되지 않을때가 있다.
@@ -63,7 +63,7 @@ ex)
 sudo python3 ABC.py
 ```
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/nmap-error3.jpg   ){: .align-center}    
+![]({{ site.url }}{{ site.baseurl }}/assets/images/nmap-error3.png   ){: .align-center}    
    
 nmap 프로그램을 실행 해보고 순간 깨닳았다...
 
