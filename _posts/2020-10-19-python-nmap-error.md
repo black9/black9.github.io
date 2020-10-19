@@ -4,7 +4,7 @@ excerpt: "Nmap 에러 오류"
 toc: true
 toc_sticky: true
 header:
-  teaser: /assets/images/shoes-teaser.jpg
+  teaser: /assets/images/nmap-error1.jpg
 
 categories:
   - 개발
@@ -13,7 +13,7 @@ tags:
   - Python
   - Error
   - 
-last_modified_at: 2020-10-15T08:06:00-05:00
+last_modified_at: 2020-10-19T20:06:00-20:00
 ---
 
 ```
