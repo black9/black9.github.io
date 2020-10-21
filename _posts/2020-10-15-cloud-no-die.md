@@ -15,7 +15,7 @@ tags:
   - Azure
 last_modified_at: 2020-10-15T13:50:00-00:00
 ---
-![]({{ site.url }}{{ site.baseurl }}/assets/images/cloud.jpg   ){: .align-center}
+![]({{ site.url }}{{ site.baseurl }}/assets/images/cloud.jpg){: .align-center}
 
 ## 1. 왜 서버 켜놨는데 터미널 닫으면 꺼질까?
 
