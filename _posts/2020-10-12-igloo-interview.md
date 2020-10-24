@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/igloo-logo.jpg
 
 categories:
-  - 잡담
+  - blind
 tags:
   - talk
   - interview
