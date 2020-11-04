@@ -32,7 +32,7 @@ last_modified_at: 2020-11-04T05:00:00-08:00
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/oracle.jpg ){: .align-center}  
   
 - Oracle WebLogic Server는 엔터프라이즈 Java EE 애플리케이션을 구축하고 배포하는 데 사용되는 널리 사용되는 애플리케이션 서버   
-- 최근 취약점 ( [CVE-2020-14750](https://www.oracle.com/security-alerts/alert-cve-2020-14750.html#AppendixFMW)) 은 CVSS 기본 점수 10 점 만점에 9.8 점을 받음   
+- 최근 취약점 ([CVE-2020-14750](https://www.oracle.com/security-alerts/alert-cve-2020-14750.html#AppendixFMW)) 은 CVSS 기본 점수 10 점 만점에 9.8 점을 받음   
 - 인증없이 원격으로 악용 할 수 있음 (ID와 PW없이 네트워크를 통해 악용 됨)   
 - 약점의 심각성에, 오라클은 고객이, 10 월 (2020) 크리티컬 패치 업데이트를 적용한 후 가능한 한 빨리 보안 경고에서 제공하는 업데이트를 적용하는 것이 좋음  
 
