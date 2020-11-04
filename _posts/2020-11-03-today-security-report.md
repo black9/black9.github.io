@@ -1,6 +1,6 @@
 ---
-title:  "20년 11월 03일 일일 보안 동향 트랜드"
-excerpt: "20/11/03 일일 보안 트랜드 및 동향 요약"
+title:  "11/03 일일 보안 동향 트랜드"
+excerpt: "11/03 일일 보안 트랜드 및 동향 요약"
 toc: true
 toc_sticky: true
 header:
