@@ -80,7 +80,7 @@ last_modified_at: 2020-11-04T05:00:00-08:00
 [트위터](https://twitter.com/VulmonFeeds/status/1323742582934016009)   
 [CVE-2020-1909](https://vulmon.com/vulnerabilitydetails?qid=CVE-2020-1909)   
     
-![]({{ site.url }}{{ site.baseurl }}/assets/images/whatspp.png ){: .align-center}  
+![]({{ site.url }}{{ site.baseurl }}/assets/images/whatsapp.png){: .align-center}  
     
 - WhatsApp v2.20.111 이전의 iOS 용 WhatsApp Business의 로깅 라이브러리에서 사용 후 메모리 손상, 충돌 및 잠재적으로 코드 실행이 발생   
     - WhatsApp 화상 통화를 보류하는 동안 애니메이션 스티커를 받은 것을 포함하여 여러 이벤트가 순서대로 함께 발생한 경우에만 발생   
