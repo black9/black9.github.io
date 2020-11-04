@@ -73,7 +73,7 @@ last_modified_at: 2020-11-04T05:00:00-08:00
     - 암호화 개인 키 파일을 열거 나 저장할 때 액세스 모드가 아닌 권한 문제와 관련   
     - create_ca, create_csr 및 create_self_signed_cert 함수를 사용한 모든 미니언 또는 마스터에 영향   
    
-- [보안패치](https://gitlab.com/saltstack/open/salt-patches) 에서 보안 패치를 다운로드 할 수 있음
+- [링크](https://gitlab.com/saltstack/open/salt-patches) 에서 보안 패치를 다운로드 할 수 있음
    
 ## 5.WhatsApp 특정 버전 메모리 손상, 충돌 등 이벤트 발생
    
