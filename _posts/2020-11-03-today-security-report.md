@@ -57,9 +57,10 @@ KGH_SPY는 공격자가 정찰, 키 로깅, 정보 도용을 수행하고 백도
 
 ## 4. Wroba 모바일 뱅킹 트로이 목마가 SMS를 통해 확산
 
-[트위터](https://twitter.com/RisingCyberLLC/status/1323377856005738496)
-[해당 뉴스(영문)](https://threatpost.com/wroba-mobile-banking-trojan-spreads-us/160785/?utm_content=buffer27177&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-공격흐름 
+[트위터](https://twitter.com/RisingCyberLLC/status/1323377856005738496)  
+[해당 뉴스(영문)](https://threatpost.com/wroba-mobile-banking-trojan-spreads-us/160785/?utm_content=buffer27177&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+
+공격흐름   
   1. SMS 내의 메시지에는 링크가 포함되어 있으며 "당신의 소포가 발송되었습니다. 확인하고 수락하십시오” 라는 메세지를 보냄  
   2. Android 사용자를 악성 사이트로 이동하면 브라우저가 최신 버전이 아니므로 업데이트가 필요하다는 경고가 표시(장치에서 사용하는 운영 체제에 따라 다름)  
   3. 사용자가 '확인'을 클릭하면 악성 응용 프로그램이 포함 된 트로이 목마 브라우저 패키지 다운로드  
