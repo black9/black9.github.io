@@ -15,10 +15,9 @@ last_modified_at: 2020-11-04T05:00:00-08:00
 # [11/04]일일 보안 동향 보고 요약
    
    
-### 1. 북한 해커 그룹 'Kimsuky' 강화된 스파이웨어 모듈
+## 1. 북한 해커 그룹 'Kimsuky' 강화된 스파이웨어 모듈
 
 [트위터](https://twitter.com/risingcyberllc/status/1323666259544809474)
-   
 [해당 뉴스(영문)](https://thehackernews.com/2020/11/new-kimsuky-module-makes-north-korean.html?utm_content=buffer796cd&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
    
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/north-kor-attack.png ){: .align-center}
@@ -30,10 +29,8 @@ last_modified_at: 2020-11-04T05:00:00-08:00
 	
 	
 	
-### 2. 중요 웹 로직 서버의 결함에 대한 오라클 rushes 긴급 수정   
-  
+## 2. 중요 웹 로직 서버의 결함에 대한 오라클 rushes 긴급 수정
 [트위터](https://twitter.com/whitehead4jeff/status/1323722247631216640)  
-  
 [해당 뉴스(영문)](https://threatpost.com/oracle-update-weblogic-server-flaw/160889/)   
   
 - Oracle WebLogic Server는 엔터프라이즈 Java EE 애플리케이션을 구축하고 배포하는 데 사용되는 널리 사용되는 애플리케이션 서버   
@@ -45,10 +42,9 @@ last_modified_at: 2020-11-04T05:00:00-08:00
     - 2019 년 5 월 연구원들은 REvil / Sodinokibi 랜섬웨어 확산을 포함하여 최근에 공개 된 Oracle WebLogic 중요 역직렬화 취약점 (CVE-2019-2725)을 악용하는 악성 활동 이 급증하고 있다고 경고   
     - 2019 년 6 월 Oracle은 WebLogic Server ( CVE-2019-2729 ) 의 중요한 원격 코드 실행 결함이 적극적으로 악용되고 있다고 말함.   
 
-### 3. Chrome 브라우저 익스플로잇이 공격하는 취약점 차단 패치   
-   
+## 3. Chrome 브라우저 익스플로잇이 공격하는 취약점 차단 패치
+  
 [트위터](https://twitter.com/securitynewsbot/status/1323731721829842944)   
-   
 [해당 뉴스(영문)](https://threatpost.com/chrome-holes-actively-targeted/160890/)   
    
 - Chrome 데스크톱 및 Android 브라우저 모두에 대한 패치는 알려진 악용을 통해 심각도가 높은 결함을 해결   
@@ -57,10 +53,9 @@ last_modified_at: 2020-11-04T05:00:00-08:00
     - CVE-2020-16010은 Android 용 Chrome SandBox escape   
 	
 
-### 4. SaltStack, 신규 취약점 공개 패치
+## 4. SaltStack, 신규 취약점 공개 패치
    
 [트위터](https://twitter.com/Gurgling_MrD/status/1323720482261213187)   
-   
 [해당 뉴스(영문)](https://www.bleepingcomputer.com/news/security/saltstack-reveals-new-critical-vulnerabilities-patch-now/)   
    
 - CVE-2020-16846 (높음 / 중요)   
@@ -76,10 +71,9 @@ last_modified_at: 2020-11-04T05:00:00-08:00
    
 - [보안패치](https://gitlab.com/saltstack/open/salt-patches) 에서 보안 패치를 다운로드 할 수 있음
    
-### 5.WhatsApp 특정 버전 메모리 손상, 충돌 등 이벤트 발생   
+## 5.WhatsApp 특정 버전 메모리 손상, 충돌 등 이벤트 발생
    
 [트위터](https://twitter.com/VulmonFeeds/status/1323742582934016009)   
-   
 [CVE-2020-1909](https://vulmon.com/vulnerabilitydetails?qid=CVE-2020-1909)   
     
 - WhatsApp v2.20.111 이전의 iOS 용 WhatsApp Business의 로깅 라이브러리에서 사용 후 메모리 손상, 충돌 및 잠재적으로 코드 실행이 발생   
