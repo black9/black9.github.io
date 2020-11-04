@@ -1,6 +1,6 @@
 ---
-title:  "11/03 일일 보안 동향 트랜드"
-excerpt: "11/03 일일 보안 트랜드 및 동향 요약"
+title:  "20년 11월 3일 일일 보안 동향 트랜드 및 뉴스"
+excerpt: "20/11/03 일일 보안 트랜드 및 동향 요약"
 toc: true
 toc_sticky: true
 header:
@@ -9,7 +9,7 @@ categories:
   - 보안
 tags:
   - Security
-last_modified_at: 2020-11-03T05:00:00-08:00
+last_modified_at: 2020-11-34T05:00:00-08:00
 ---
 
 
