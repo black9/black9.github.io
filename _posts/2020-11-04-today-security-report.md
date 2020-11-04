@@ -14,10 +14,9 @@ last_modified_at: 2020-11-04T05:00:00-08:00
 
 # [11/04]일일 보안 동향 보고 요약
    
-   
 ## 1. 북한 해커 그룹 'Kimsuky' 강화된 스파이웨어 모듈
 
-[트위터](https://twitter.com/risingcyberllc/status/1323666259544809474)
+[트위터](https://twitter.com/risingcyberllc/status/1323666259544809474)  
 [해당 뉴스(영문)](https://thehackernews.com/2020/11/new-kimsuky-module-makes-north-korean.html?utm_content=buffer796cd&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
    
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/north-kor-attack.png ){: .align-center}
@@ -26,9 +25,7 @@ last_modified_at: 2020-11-04T05:00:00-08:00
 - 역할   
 	- KGH_SPY 백도어는 명령 및 제어 (C2) 서버에서 보조 페이로드를 다운로드하고 cmd.exe 또는 PowerShell을 통해 임의의 명령을 실행하며 웹 브라우저, Windows Credential Manager, WINSCP 및 메일 클라이언트에서 자격 증명을 수집    
 	- "KGH_SPY"라는 모듈 식 스파이웨어 제품군을 통해 새로운 기능을 획득하여 대상 네트워크를 정찰하고 키 입력을 캡처하며 민감한 정보를 훔침  
-	
-	
-	
+
 ## 2. 중요 웹 로직 서버의 결함에 대한 오라클 rushes 긴급 수정
 [트위터](https://twitter.com/whitehead4jeff/status/1323722247631216640)  
 [해당 뉴스(영문)](https://threatpost.com/oracle-update-weblogic-server-flaw/160889/)   
