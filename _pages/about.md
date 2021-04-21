@@ -1,5 +1,5 @@
 ---
-title: "This is Blo9"
+title: "Blo9"
 permalink: /about/
 toc_sticky: true
 toc_ads : true
@@ -26,3 +26,8 @@ layout: single
 2014.07 ~ 2014.08 스마트창작터 안드로이드 기초 이수  
 2014.03 ~ 2020.02 경일대학교 사이버보안학과 졸업  
 2013.01 ~ 2014.03 안드로이드 커스텀 롬 개발 (Team ThinkingBridge)  
+  
+  
+## Awards and Honors  
+디지털트랜스포메이션을 위한 블록체인 비즈니스 청년혁신가 양성 과정 - 프로젝트 우수상 , 특별상   
+한국디지털컨텐츠학회 대학생 논문 경진 대회 - 금상  
